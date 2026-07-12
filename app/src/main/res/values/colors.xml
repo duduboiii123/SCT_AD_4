@@ -1,0 +1,30 @@
+<resources>
+    <!-- Primary Palette -->
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#4B44C9</color>
+    <color name="primary_light">#B3AFFF</color>
+
+    <!-- Secondary / Accent -->
+    <color name="secondary">#03A9A4</color>
+    <color name="accent">#03DAC5</color>
+    <color name="accent_dark">#019592</color>
+
+    <!-- Backgrounds -->
+    <color name="background_light">#F5F5FA</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6E6E8C</color>
+    <color name="text_hint">#A0A0B8</color>
+
+    <!-- Utility -->
+    <color name="divider">#E0E0EC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Status / Button Colors -->
+    <color name="success">#43A047</color>
+    <color name="warning">#FB8C00</color>
+    <color name="error">#E53935</color>
+</resources>
