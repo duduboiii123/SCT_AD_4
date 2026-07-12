@@ -71,6 +71,7 @@ implementation 'com.google.zxing:core:3.5.2'
 5. Tap **Clear** to reset the input, result, and QR image.
 
 ## 📂 Project Structure
+```
 SCT_AD_4
 │
 ├── app
@@ -90,6 +91,7 @@ SCT_AD_4
 │
 ├── README.md
 └── .gitignore
+```
 
 ## 🔮 Future Improvements
 - Add flashlight toggle during scanning
